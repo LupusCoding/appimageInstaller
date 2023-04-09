@@ -1,0 +1,9 @@
+{
+  "type": "Application",
+  "name": "Obsidian",
+  "comment": "Extensible knowledge base",
+  "icon_web": "https://avatars.githubusercontent.com/u/65011256",
+  "icon_output": "obsidian_logo.png",
+  "terminal": false,
+  "categories": ["Obsidian", "knowledge", "worldbuilding"]
+}

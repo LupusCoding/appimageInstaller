@@ -1,0 +1,9 @@
+{
+  "type": "Application",
+  "name": "OpenShot",
+  "comment": "Simple multi-track video editor",
+  "icon_web": "https://avatars.githubusercontent.com/u/5551888",
+  "icon_output": "openshot_logo.png",
+  "terminal": false,
+  "categories": ["OpenShot", "video"]
+}

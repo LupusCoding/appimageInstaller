@@ -1,0 +1,9 @@
+{
+  "type": "Application",
+  "name": "Audacity",
+  "comment": "Multi-track audio editor",
+  "icon_web": "https://avatars.githubusercontent.com/u/11648186",
+  "icon_output": "audacity_logo.png",
+  "terminal": false,
+  "categories": ["Audacity", "audio", "music"]
+}

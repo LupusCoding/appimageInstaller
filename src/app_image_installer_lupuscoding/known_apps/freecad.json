@@ -1,0 +1,9 @@
+{
+  "type": "Application",
+  "name": "FreeCAD",
+  "comment": "Open source CAD editor",
+  "icon_web": "https://avatars.githubusercontent.com/u/2306237",
+  "icon_output": "freecad_logo.png",
+  "terminal": false,
+  "categories": ["FreeCAD", "CAD", "3D", "2D"]
+}

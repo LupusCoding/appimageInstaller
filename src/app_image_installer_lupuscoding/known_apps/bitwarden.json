@@ -1,0 +1,9 @@
+{
+  "type": "Application",
+  "name": "Bitwarden",
+  "comment": "Highly secure password manager",
+  "icon_web": "https://avatars.githubusercontent.com/u/15990069",
+  "icon_output": "bitwarden_logo.png",
+  "terminal": false,
+  "categories": ["Bitwarden", "password", "manager", "safe"]
+}

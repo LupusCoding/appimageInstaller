@@ -1,0 +1,9 @@
+{
+  "type": "Application",
+  "name": "Drawio",
+  "comment": "Diagramming and whiteboarding tool",
+  "icon_web": "https://raw.githubusercontent.com/jgraph/drawio/dev/src/main/webapp/images/favicon-32x32.png",
+  "icon_output": "drawio_logo.png",
+  "terminal": false,
+  "categories": ["Drawio", "diagram", "whiteboard"]
+}

@@ -1,0 +1,9 @@
+{
+  "type": "Application",
+  "name": "OpenSCAD",
+  "comment": "Open source 3D CAD editor",
+  "icon_web": "https://avatars.githubusercontent.com/u/466370",
+  "icon_output": "openscad_logo.png",
+  "terminal": false,
+  "categories": ["OpenSCAD", "CAD", "3D"]
+}

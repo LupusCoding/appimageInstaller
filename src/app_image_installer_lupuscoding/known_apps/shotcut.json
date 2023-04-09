@@ -1,0 +1,9 @@
+{
+  "type": "Application",
+  "name": "Shotcut",
+  "comment": "Multi-track video editor",
+  "icon_web": "https://raw.githubusercontent.com/mltframework/shotcut/master/icons/shotcut-logo-320x320.png",
+  "icon_output": "shotcut_logo.png",
+  "terminal": false,
+  "categories": ["Shotcut", "video"]
+}

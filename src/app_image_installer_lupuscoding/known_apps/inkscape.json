@@ -1,0 +1,9 @@
+{
+  "type": "Application",
+  "name": "Inkscape",
+  "comment": "Open source vector graphics editor",
+  "icon_web": "https://avatars.githubusercontent.com/u/8506907",
+  "icon_output": "inkscape_logo.png",
+  "terminal": false,
+  "categories": ["Inkscape", "graphics", "vector"]
+}

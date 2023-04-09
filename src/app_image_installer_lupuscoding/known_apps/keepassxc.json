@@ -1,0 +1,9 @@
+{
+  "type": "Application",
+  "name": "KeePassXC",
+  "comment": "Highly secure password manager",
+  "icon_web": "https://avatars.githubusercontent.com/u/22534815",
+  "icon_output": "keepassxc_logo.png",
+  "terminal": false,
+  "categories": ["KeePassXC", "password", "manager", "safe"]
+}

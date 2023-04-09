@@ -1,0 +1,9 @@
+{
+  "type": "Application",
+  "name": "Piskel",
+  "comment": "PixelArt image and animation editor",
+  "icon_web": "https://avatars.githubusercontent.com/u/28667131",
+  "icon_output": "piskel_logo.png",
+  "terminal": false,
+  "categories": ["Piskel", "PixelArt", "graphics", "animation"]
+}
