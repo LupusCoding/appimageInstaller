@@ -16,6 +16,10 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
     "Operating System :: Linux",
 ]
+dependencies = [
+    "termcolor>=2.2.0",
+    "click>=8.1.3",
+]
 
 [project.scripts]
 appimageInstaller = "app_image_installer_lupuscoding:main.install"
