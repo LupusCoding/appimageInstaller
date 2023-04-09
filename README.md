@@ -6,11 +6,11 @@ A simple tool to install Linux AppImage files.
 The tool moves the AppImage file to HOME/Applications and creates a .desktop
 configuration file.
 
-## Requirements
+## Installation
+### Requirements
 * python >= 3.7
 * setuptools >= 61.0
 
-## Installation
 ### Local
 1. Clone this repo
 2. cd into repo root folder
@@ -20,7 +20,7 @@ configuration file.
 ```python3 -m pip install -e .```
 
 ### From GitHub
-```pip install git+https://github.com/LupusCoding/appimageInstaller```
+```pip3 install git+https://github.com/LupusCoding/appimageInstaller```
 
 ## Usage
 After installation, you are able to execute the tool on command line, either
